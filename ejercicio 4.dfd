@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+93
+'compra de 3 productos se le descuentan el 50% al segundo valor, más el IVA 15% en el total.'
+5
+1
+10
+P1, P2, P3
+6
+3
+4
+DES2
+9
+P2 * 0.50
+5
+DESC2
+9
+P2 - DES2
+5
+TOTAL
+13
+P1+ DESC2+ P3
+6
+2
+3
+IVA
+12
+TOTAL * 0.15
+5
+FINAL
+11
+TOTAL + IVA
+4
+1
+5
+FINAL
+4
+1
+29
+'RESULTADO FINAL DEL  RECIBO'
+1

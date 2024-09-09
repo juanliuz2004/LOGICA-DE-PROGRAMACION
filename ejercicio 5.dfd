@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+131
+'vende 4 productos se le descuentan el 12% al segundo, cuarto valor y al tercer valor tendrá el iva por el 25% y mostrar el total.'
+5
+1
+14
+P1, P2, P3, P4
+6
+3
+4
+DES2
+9
+P2 * 0.12
+5
+DESC2
+9
+P2 - DES2
+4
+DES4
+9
+P4 * 0.12
+6
+3
+5
+DESC4
+17
+P4 - DES4        
+5
+RESUL
+18
+P1 + DESC2 + DESC4
+4
+IVP3
+9
+P3 * 0.25
+6
+2
+5
+IVAP3
+9
+P3 + IVP3
+5
+TOTAL
+12
+RESUL +IVAP3
+4
+1
+5
+TOTAL
+4
+1
+25
+'RESULTADO  DE LA  VENTA'
+1
