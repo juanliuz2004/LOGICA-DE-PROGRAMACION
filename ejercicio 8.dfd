@@ -7,7 +7,7 @@
 4
 1
 119
-'compra 4 productos se le descuentan el 2% del segundo y cuarto valor, el primero y el tercero con el descuento del 4% y al valor total se le suma el 8% en IVA'
+'compra 4 productos se le descuentan el 15% del segundo y cuarto valor, el primero y el tercero con el descuento del 30% y al valor total se le suma el 28% en IVA'
 5
 1
 14
@@ -17,7 +17,7 @@ C1, C2, C3, C4
 4
 DES1
 9
-C1 * 0.04
+C1 * 0.30
 5
 DESC1
 9
@@ -25,7 +25,7 @@ C1 - DES1
 4
 DES2
 9
-C2 * 0.02
+C2 * 0.15
 6
 3
 5
@@ -35,7 +35,7 @@ C2 - DES2
 4
 DES3
 9
-C3 * 0.04
+C3 * 0.30
 5
 DESC3
 9
@@ -45,7 +45,7 @@ C3 - DES3
 4
 DES4
 9
-C4 * 0.02
+C4 * 0.15
 5
 DESC4
 9
