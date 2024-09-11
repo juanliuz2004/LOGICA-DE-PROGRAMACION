@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+77
+'compra 4 productos se le descuentan el 30% al tercer valor y mostrar total.'
+5
+1
+14
+P1, P2, P3, P4
+6
+3
+4
+DES3
+9
+P3 * 0.30
+5
+DESC3
+10
+ P3 - DES3
+5
+TOTAL
+20
+P1 + P2 + DESC3 + P4
+4
+1
+5
+TOTAL
+4
+1
+17
+'TOTAL DE RECIBO'
+1

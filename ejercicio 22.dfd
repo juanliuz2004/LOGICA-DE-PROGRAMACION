@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+85
+'compra 5 productos se le descuentan el 5% al segundo y quito valor y mostrar total.'
+5
+1
+18
+P1, P2, P3, P4, P5
+6
+3
+4
+DES2
+8
+P2 * 005
+5
+DESC2
+10
+ P2 - DES2
+4
+DES5
+9
+P5 * 0.05
+6
+2
+5
+DESC5
+8
+P5- DES5
+6
+ TOTAL
+28
+P1 + DESC2 + P3 +  P4 +DESC5
+4
+1
+5
+TOTAL
+4
+1
+17
+'TOTAL DE RECIBO'
+1

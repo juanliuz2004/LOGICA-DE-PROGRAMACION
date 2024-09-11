@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+77
+'compra 2 productos se le descuentan el 20% al primer valor y mostrar total.'
+5
+1
+6
+P1, P2
+6
+3
+3
+DES
+9
+P1 * 0.20
+4
+DES1
+8
+P1 - DES
+5
+TOTAL
+8
+DES1+ P2
+4
+1
+5
+TOTAL
+4
+1
+18
+'TOTAL DEL RECIBO'
+1
