@@ -7,12 +7,13 @@
 4
 1
 134
-'vende 4 productos se le descuentan el 20% EL tercero, cuarto valor y al tercer valor tendr· el IVA por el 25% y mostrar el total'
+'vende 'vende 5 productos se le descuentan el 20% EL tercero, y el cuarto valor tendr√° el 15% de descuento y mostrar el totaL '
+
 .'
 5
 1
 14
-P1, P2, P3, P4
+P1, P2, P3, P4, P5
 6
 3
 4
@@ -26,7 +27,7 @@ P3 - DES3
 4
 DES4
 8
-P4* 0.20
+P4* 0.15
 6
 2
 5
