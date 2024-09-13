@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+'vende 5 productos y mostrar el total se le suma el 30% en IVA'
+5
+1
+18
+P1, P2, P3, P4, P5
+6
+3
+5
+TOTAL
+22
+P1 + P2 + P3 + P4 + P5
+3
+IVA
+12
+TOTAL * 0.30
+5
+FINAL
+12
+TOTAL + IVA 
+4
+1
+5
+FINAL
+4
+1
+16
+'FINAL DE VENTA'
+1
