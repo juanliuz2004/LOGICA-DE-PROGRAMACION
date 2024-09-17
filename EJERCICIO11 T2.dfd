@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+' DIGITE LA EDAD'
+5
+1
+4
+Edad
+4
+1
+26
+'PRECIOS DE LAS MASCOTAS '
+5
+1
+6
+M1, M2
+6
+1
+5
+SUMA 
+17
+M1 + M2 + M3 + M4
+7
+0
+1
+9
+Edad <=25
+4
+1
+11
+'NO APLICA'
+6
+1
+3
+MSC
+4
+SUMA
+4
+1
+3
+MSC
+13
+4
+1
+13
+'SI APLICA'  
+6
+2
+3
+MS 
+11
+SUMA * 0.30
+3
+MSD
+10
+SUMA - MS 
+4
+1
+3
+MSD
+13
+1

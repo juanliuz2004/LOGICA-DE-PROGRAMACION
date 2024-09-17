@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+' DIGITE LA EDAD'
+5
+1
+4
+Edad
+4
+1
+29
+'PRECIOS DE LOS DESODORANTES'
+5
+1
+10
+D1, D2, D3
+7
+0
+1
+8
+Edad >28
+4
+1
+11
+'NO APLICA'
+6
+1
+4
+PLTN
+31
+PLT1 + P2 + PLT3 + PLT4 + PLT5 
+4
+1
+4
+DSRT
+13
+4
+1
+13
+'SI APLICA'  
+6
+3
+3
+DS1
+10
+D1  * 0.15
+4
+DSR1
+8
+D1 - DS1
+3
+DS3
+9
+D3 * 0.10
+6
+2
+4
+DSR3
+8
+P3 - DS3
+5
+DSRTT
+17
+DSR1 + D2 + DSR3 
+4
+1
+5
+DSRTT
+13
+1

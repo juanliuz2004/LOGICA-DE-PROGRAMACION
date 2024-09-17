@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+' DIGITE LA EDAD'
+5
+1
+4
+Edad
+4
+1
+26
+'PRECIOS DE LAS AUTOPARTES
+5
+1
+23
+AP1, AP2, AP3, AP4, AP5
+7
+0
+1
+8
+Edad >30
+4
+1
+11
+'NO APLICA'
+6
+1
+4
+AUTP
+40
+AP1 + AP2 + AP3 + AP4 + AP5             
+4
+1
+4
+AUTP
+13
+4
+1
+13
+'SI APLICA'  
+6
+3
+4
+AUP2
+10
+AP2 * 0.50
+5
+AUPT2
+10
+AP2 - AUP2
+6
+AUPTTL
+29
+AP1 + AUPT2 + AP3 + AP4 + AP5
+4
+1
+6
+AUPTTL
+13
+1

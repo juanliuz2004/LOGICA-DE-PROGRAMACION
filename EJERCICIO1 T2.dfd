@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+' DIGITE LA EDAD'
+5
+1
+4
+Edad
+4
+1
+33
+'PRECIOS DE LOS ELCTRODOMESTICOS'
+5
+1
+18
+EL1, EL2, EL3, EL4
+6
+1
+5
+SUMA 
+21
+EL1 + EL2 + EL3 + EL4
+7
+0
+1
+10
+Edad >= 60
+4
+1
+11
+'NO APLICA'
+6
+1
+3
+ETM
+4
+SUMA
+4
+1
+3
+ETM
+13
+4
+1
+13
+'SI APLICA'  
+6
+2
+4
+ECT 
+11
+SUMA * 0.30
+6
+ECTDES
+10
+SUMA - ECT
+4
+1
+6
+ECTDES
+13
+1

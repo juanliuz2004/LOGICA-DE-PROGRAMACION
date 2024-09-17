@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+' DIGITE LA EDAD'
+5
+1
+4
+Edad
+4
+1
+21
+'PRECIOS DEL TEATRO '
+5
+1
+11
+T1, T2, T3 
+6
+1
+5
+SUMA 
+12
+T1 + T2 + T3
+7
+0
+1
+8
+Edad >58
+4
+1
+11
+'NO APLICA'
+6
+1
+4
+TATR
+4
+SUMA
+4
+1
+4
+TATR
+13
+4
+1
+13
+'SI APLICA'  
+6
+2
+3
+TAT
+11
+SUMA * 0.15
+6
+TATDES
+11
+SUMA -  TAT
+4
+1
+6
+TATDES
+13
+1

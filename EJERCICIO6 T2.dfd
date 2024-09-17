@@ -1,0 +1,94 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+' DIGITE LA EDAD'
+5
+1
+4
+Edad
+4
+1
+24
+'PRECIOS DE LAS PELOTAS'
+5
+1
+18
+P1, P2, P3, P4, P5
+7
+0
+1
+8
+Edad <16
+4
+1
+11
+'NO APLICA'
+6
+1
+4
+PLTN
+31
+PLT1 + P2 + PLT3 + PLT4 + PLT5 
+4
+1
+4
+PLTN
+13
+4
+1
+13
+'SI APLICA'  
+6
+3
+3
+PL1
+9
+P1 * 0.10
+4
+PLT1
+7
+P1- PL1
+3
+PL3
+9
+P3 * 0.10
+6
+3
+4
+PLT3
+7
+P3 -PL3
+3
+PL4
+9
+P4 * 0.10
+4
+PLT4
+7
+P4 -PL4
+6
+3
+3
+PL5
+9
+P5 * 0.10
+4
+PLT5
+7
+P5 -PL5
+5
+PLTTL
+31
+PLT1 + P2 + PLT3 + PLT4 + PLT5 
+4
+1
+5
+PLTTL
+13
+1

@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+' DIGITE LA EDAD'
+5
+1
+4
+Edad
+4
+1
+20
+'PRECIOS DE PLATOS '
+5
+1
+13
+PL1, PL2, PL3
+6
+1
+5
+SUMA 
+16
+PL1 + PL2 + PL3 
+7
+0
+1
+9
+Edad >=35
+4
+1
+11
+'NO APLICA'
+6
+1
+4
+PLTS
+4
+SUMA
+4
+1
+4
+PLTS
+13
+4
+1
+13
+'SI APLICA'  
+6
+2
+3
+PLT
+11
+SUMA * 0.20
+4
+SPLT
+11
+SUMA -  PLT
+4
+1
+4
+SPLT
+13
+1

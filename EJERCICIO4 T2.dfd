@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+' DIGITE LA EDAD'
+5
+1
+4
+Edad
+4
+1
+22
+'PRECIOS DE TIQUETES '
+5
+1
+9
+TQ1, TQ2 
+6
+1
+5
+SUMA 
+11
+TQ1 + TQ2  
+7
+0
+1
+8
+Edad <18
+4
+1
+11
+'NO APLICA'
+6
+1
+4
+PLTC
+4
+SUMA
+4
+1
+4
+PLTC
+13
+4
+1
+13
+'SI APLICA'  
+6
+2
+3
+TQT
+11
+SUMA * 0.25
+6
+TQTDES
+11
+SUMA -  TQT
+4
+1
+6
+TQTDES
+13
+1

@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+' DIGITE LA EDAD'
+5
+1
+4
+Edad
+4
+1
+24
+'PRECIOS DE LAS BEBIDAS'
+5
+1
+22
+B1, B2, B3, B4, B5, B6
+7
+0
+1
+8
+Edad >25
+4
+1
+11
+'NO APLICA'
+6
+1
+3
+BDS
+27
+B1 + B2 + B3 + B4 + B5 + B6
+4
+1
+3
+BDS
+13
+4
+1
+13
+'SI APLICA'  
+6
+3
+3
+BB1
+9
+B1 * 0.24
+5
+BBDS1
+7
+B1- BB1
+3
+BB4
+9
+B4 * 0.24
+6
+2
+5
+BBDS4
+8
+B4 - BB4
+5
+BBDTT
+33
+BBDS1 + B2 + B3 + BBDS4 + B5 + B6
+4
+1
+5
+BBDTT
+13
+1

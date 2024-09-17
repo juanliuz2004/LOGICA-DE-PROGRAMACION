@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+' DIGITE LA EDAD'
+5
+1
+4
+Edad
+4
+1
+39
+'PRECIOS PARA EL PARQUE DE ATRCCIONES '
+5
+1
+7
+T1, T2 
+6
+1
+5
+SUMA 
+9
+T1 + T2  
+7
+0
+1
+8
+Edad <25
+4
+1
+11
+'NO APLICA'
+6
+1
+4
+TQTA
+4
+SUMA
+4
+1
+4
+TQTA
+13
+4
+1
+13
+'SI APLICA'  
+6
+2
+3
+TQT
+11
+SUMA * 0.20
+6
+TQTDES
+11
+SUMA -  TQT
+4
+1
+6
+TQTDES
+13
+1
