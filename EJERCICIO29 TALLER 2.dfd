@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'VALOR_DE_LOS_BOMBONES'
+5
+1
+11
+VALOR_DE_BM
+7
+0
+1
+13
+VALOR_DE_BM>2
+4
+1
+9
+'SIN IVA'
+4
+1
+11
+VALOR_DE_BM
+13
+4
+1
+9
+'CON IVA'
+6
+2
+3
+IVA
+18
+VALOR_DE_BM * 0.05
+3
+BMV
+17
+VALOR_DE_BM + IVA
+4
+1
+3
+BMV
+13
+1

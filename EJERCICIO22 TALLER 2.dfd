@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+15
+'VALOR_DE_ROPA'
+5
+1
+11
+VALOR_DE_RP
+7
+0
+1
+13
+VALOR_DE_RP>2
+4
+1
+9
+'SIN IVA'
+4
+1
+11
+VALOR_DE_RP
+13
+4
+1
+9
+'CON IVA'
+6
+2
+3
+IVA
+18
+VALOR_DE_RP * 0.40
+3
+RPV
+17
+VALOR_DE_RP + IVA
+4
+1
+3
+RPV
+13
+1

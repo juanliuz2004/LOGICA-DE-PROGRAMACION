@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'VALOR_ DE_ LAVADORA'
+5
+1
+11
+VALOR_DE_LV
+7
+0
+1
+13
+VALOR_DE_LV>2
+4
+1
+9
+'SIN IVA'
+4
+1
+11
+VALOR_DE_LV
+13
+4
+1
+9
+'CON IVA'
+6
+2
+3
+IVA
+18
+VALOR_DE_LV * 0.15
+4
+LVIA
+17
+VALOR_DE_LV + IVA
+4
+1
+4
+LVIA
+13
+1

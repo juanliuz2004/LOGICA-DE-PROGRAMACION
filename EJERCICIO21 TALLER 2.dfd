@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'VALOR_DE_PELOTAS'
+5
+1
+12
+VALOR_DE_PLT
+7
+0
+1
+14
+VALOR_DE_PLT>2
+4
+1
+9
+'SIN IVA'
+4
+1
+12
+VALOR_DE_PLT
+13
+4
+1
+9
+'CON IVA'
+6
+2
+3
+IVA
+19
+VALOR_DE_PLT * 0.10
+4
+PLTV
+18
+VALOR_DE_PLT + IVA
+4
+1
+4
+PLTV
+13
+1
