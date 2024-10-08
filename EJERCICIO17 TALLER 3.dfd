@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'digite tres notas'
+5
+1
+10
+N1, N2, N3
+6
+3
+5
+NOT12
+6
+N1+ N2
+4
+POR1
+17
+NOT12 * 0.60 /100
+4
+NOT3
+14
+N3 * 0.40 /100
+6
+2
+5
+TOTAL
+12
+NOT12 + NOT3
+5
+FINAL
+9
+TOTAL / 2
+4
+1
+5
+FINAL
+7
+0
+1
+12
+FINAL >= 35 
+7
+0
+1
+21
+FINAL>28 or FINAL >30
+4
+1
+16
+'PERDIO LA NOTA'
+13
+4
+1
+16
+'RECUPERAR NOTA'
+13
+13
+4
+1
+14
+'PASO LA NOTA'
+13
+1
