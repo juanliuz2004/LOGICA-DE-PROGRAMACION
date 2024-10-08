@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'digite su edad y el valor del productos'
+5
+1
+12
+edad, compra
+7
+0
+1
+27
+edad>= 18 and compra>=54000
+4
+1
+6
+compra
+13
+6
+2
+4
+desc
+13
+compra * 0.09
+5
+total
+13
+compra - desc
+4
+1
+6
+total 
+13
+1

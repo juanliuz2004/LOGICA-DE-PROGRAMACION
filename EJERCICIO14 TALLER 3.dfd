@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+'que edad tiene'
+5
+1
+4
+edad
+4
+1
+24
+'valor de los productos'
+5
+1
+10
+p1, p2, p3
+6
+1
+6
+VALTOL
+8
+p1+p2+p3
+7
+0
+1
+30
+edad>= 67 and  VALTOL>=4000000
+4
+1
+11
+'NO APLICA'
+4
+1
+14
+'TOTAL',salIVA
+13
+4
+1
+11
+'SI APLICA'
+6
+2
+4
+DESC
+13
+VALTOL * 0.40
+6
+TOTAL1
+13
+VALTOL - DESC
+4
+1
+15
+'TOTAL' ,TOTAL1
+13
+1

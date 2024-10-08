@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'que edad y el valor del productos'
+5
+1
+11
+edad, saldo
+7
+0
+1
+26
+edad>= 18 and saldo>=40000
+4
+1
+11
+'NO APLICA'
+6
+2
+3
+IVA
+12
+saldo * 0.10
+6
+salIVA
+11
+saldo + IVA
+4
+1
+14
+'TOTAL',salIVA
+13
+4
+1
+11
+'SI APLICA'
+7
+0
+1
+13
+saldo >=50000
+4
+1
+15
+'TOTAL'  ,saldo
+13
+6
+2
+4
+DESC
+12
+saldo * 0.10
+6
+TOTAL1
+12
+saldo - DESC
+4
+1
+15
+'TOTAL' ,TOTAL1
+13
+13
+1
