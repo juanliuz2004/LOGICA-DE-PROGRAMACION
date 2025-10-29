@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COSMIC WARFARE - Battle Royale Espacial</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <canvas id="stars"></canvas>
+    
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1 class="glitch" data-text="COSMIC WARFARE">COSMIC WARFARE</h1>
+            <p class="subtitle">EL ÚLTIMO SOBREVIVIENTE EN EL ESPACIO</p>
+            <div class="cta-buttons">
+                <a href="#" class="btn btn-primary pulse">
+                    <span>DESCARGAR AHORA</span>
+                </a>
+                <a href="#gameplay" class="btn btn-secondary">
+                    <span>VER GAMEPLAY</span>
+                </a>
+            </div>
+            <div class="stats">
+                <div class="stat-item">
+                    <span class="stat-number" data-target="5000000">0</span>
+                    <span class="stat-label">JUGADORES</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" data-target="100">0</span>
+                    <span class="stat-label">JUGADORES POR PARTIDA</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" data-target="50">0</span>
+                    <span class="stat-label">NAVES ÚNICAS</span>
+                </div>
+            </div>
+        </div>
+        <div class="hero-ship"></div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features" id="features">
+        <h2 class="section-title">CARACTERÍSTICAS ÉPICAS</h2>
+        <div class="features-grid">
+            <div class="feature-card" data-tilt>
+                <div class="feature-icon">🚀</div>
+                <h3>100 JUGADORES</h3>
+                <p>Combate masivo en tiempo real. Solo uno sobrevivirá en el vacío del espacio.</p>
+            </div>
+            <div class="feature-card" data-tilt>
+                <div class="feature-icon">⚡</div>
+                <h3>ACCIÓN FRENÉTICA</h3>
+                <p>Combates rápidos y explosivos con mecánicas de vuelo espacial avanzadas.</p>
+            </div>
+            <div class="feature-card" data-tilt>
+                <div class="feature-icon">🌌</div>
+                <h3>MAPAS GALÁCTICOS</h3>
+                <p>Explora nebulosas, asteroides y estaciones espaciales abandonadas.</p>
+            </div>
+            <div class="feature-card" data-tilt>
+                <div class="feature-icon">🛸</div>
+                <h3>NAVES PERSONALIZABLES</h3>
+                <p>Desbloquea y mejora más de 50 naves con habilidades únicas.</p>
+            </div>
+            <div class="feature-card" data-tilt>
+                <div class="feature-icon">💥</div>
+                <h3>ARMAS DEVASTADORAS</h3>
+                <p>Láseres, misiles, EMP y armas exóticas de tecnología alienígena.</p>
+            </div>
+            <div class="feature-card" data-tilt>
+                <div class="feature-icon">🏆</div>
+                <h3>RANKED & TORNEOS</h3>
+                <p>Compite en ligas y torneos globales por recompensas exclusivas.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gameplay Section -->
+    <section class="gameplay" id="gameplay">
+        <h2 class="section-title">GAMEPLAY EXPLOSIVO</h2>
+        <div class="gameplay-container">
+            <div class="gameplay-video">
+                <div class="video-placeholder">
+                    <div class="play-button">▶</div>
+                    <p>TRAILER OFICIAL</p>
+                </div>
+            </div>
+            <div class="gameplay-video">
+                <div class="video-placeholder">
+                    <div class="play-button">▶</div>
+                    <p>COMBATE INTENSO</p>
+                </div>
+            </div>
+            <div class="gameplay-video">
+                <div class="video-placeholder">
+                    <div class="play-button">▶</div>
+                    <p>MEJORES MOMENTOS</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ships Showcase -->
+    <section class="ships">
+        <h2 class="section-title">ELIGE TU NAVE</h2>
+        <div class="ships-carousel">
+            <div class="ship-card">
+                <div class="ship-image ship-1"></div>
+                <h3>PHANTOM X-7</h3>
+                <p>Velocidad máxima y sigilo</p>
+                <div class="ship-stats">
+                    <div class="stat-bar">
+                        <span>Velocidad</span>
+                        <div class="bar"><div class="fill" style="width: 95%"></div></div>
+                    </div>
+                    <div class="stat-bar">
+                        <span>Armadura</span>
+                        <div class="bar"><div class="fill" style="width: 40%"></div></div>
+                    </div>
+                    <div class="stat-bar">
+                        <span>Potencia</span>
+                        <div class="bar"><div class="fill" style="width: 70%"></div></div>
+                    </div>
+                </div>
+            </div>
+            <div class="ship-card">
+                <div class="ship-image ship-2"></div>
+                <h3>TITAN DESTROYER</h3>
+                <p>Tanque de batalla pesado</p>
+                <div class="ship-stats">
+                    <div class="stat-bar">
+                        <span>Velocidad</span>
+                        <div class="bar"><div class="fill" style="width: 45%"></div></div>
+                    </div>
+                    <div class="stat-bar">
+                        <span>Armadura</span>
+                        <div class="bar"><div class="fill" style="width: 98%"></div></div>
+                    </div>
+                    <div class="stat-bar">
+                        <span>Potencia</span>
+                        <div class="bar"><div class="fill" style="width: 85%"></div></div>
+                    </div>
+                </div>
+            </div>
+            <div class="ship-card">
+                <div class="ship-image ship-3"></div>
+                <h3>NOVA STRIKER</h3>
+                <p>Balance perfecto</p>
+                <div class="ship-stats">
+                    <div class="stat-bar">
+                        <span>Velocidad</span>
+                        <div class="bar"><div class="fill" style="width: 75%"></div></div>
+                    </div>
+                    <div class="stat-bar">
+                        <span>Armadura</span>
+                        <div class="bar"><div class="fill" style="width: 70%"></div></div>
+                    </div>
+                    <div class="stat-bar">
+                        <span>Potencia</span>
+                        <div class="bar"><div class="fill" style="width: 80%"></div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Download Section -->
+    <section class="download">
+        <div class="download-content">
+            <h2>¿LISTO PARA LA BATALLA?</h2>
+            <p>Descarga ahora y obtén 1000 créditos galácticos GRATIS</p>
+            <div class="download-buttons">
+                <a href="#" class="store-btn">
+                    <div class="store-icon">📱</div>
+                    <div class="store-text">
+                        <span>Disponible en</span>
+                        <strong>App Store</strong>
+                    </div>
+                </a>
+                <a href="#" class="store-btn">
+                    <div class="store-icon">🤖</div>
+                    <div class="store-text">
+                        <span>Descarga en</span>
+                        <strong>Google Play</strong>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-logo">COSMIC WARFARE</div>
+            <div class="footer-links">
+                <a href="#">Términos</a>
+                <a href="#">Privacidad</a>
+                <a href="#">Soporte</a>
+                <a href="#">Comunidad</a>
+            </div>
+            <div class="social-links">
+                <a href="#" class="social-icon">📘</a>
+                <a href="#" class="social-icon">🐦</a>
+                <a href="#" class="social-icon">📷</a>
+                <a href="#" class="social-icon">🎮</a>
+            </div>
+            <p>&copy; 2025 Cosmic Warfare. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
